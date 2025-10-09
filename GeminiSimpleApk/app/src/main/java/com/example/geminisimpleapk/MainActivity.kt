@@ -113,7 +113,7 @@ public fun buttonGeminiAPI(view: View){
 
     MainScope().launch {
         val response = generativeModel.generateContent(prompt)
-        Log.i("SEBA1","cIUL"+response.text.toString())
+        
     }
 
 
