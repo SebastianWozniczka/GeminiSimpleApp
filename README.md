@@ -1,4 +1,4 @@
-# SimpleGeminiApk
+# GeminiSimpleApk
 A simple application using gemini.
 
 ## Installation
