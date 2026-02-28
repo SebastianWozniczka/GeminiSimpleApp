@@ -45,8 +45,9 @@ dependencies {
 
     //implementation("android.arch.lifecycle:extensions:1.1.1")
 
-    implementation("com.google.ai.client.generativeai:generativeai:0.4.0")
+   // implementation("com.google.ai.client.generativeai:generativeai:0.4.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")
+    implementation("com.google.ai.client.generativeai:generativeai:0.7.0")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
